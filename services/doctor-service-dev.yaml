@@ -4,7 +4,12 @@ spring:
       enabled: true
 
   mongodb:
-    uri: mongodb://root:LyKZW2lNjbDkyrEMdfA9cCYgRbjMZrNEh7F0YsExOGU-2Sty@2dde4275-e3b7-414c-9bcf-ab9a6f7fea0b.asia-southeast1.firestore.goog:443/db-mediplus?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
+    host: localhost
+    port: 13500
+    database: medi-plus
+    username: root
+    password: mongodb
+    authentication-database: admin
 
 server:
   port: 0
