@@ -4,7 +4,7 @@ spring:
       enabled: true
 
   mongodb:
-    uri: mongodb://root:zXDSX4YyIUfm5OKZloxTQBV8kRIFzCLWFKjzEwwLkqYp7FD6@44ab58bc-9218-41b2-8ec4-e9d48b9bfd5c.asia-southeast1.firestore.goog:443/db-mediplus?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
+    uri: mongodb://root:r_Emcp5jfOQ1v2Les1ExDamzjxa6ZoPu7DVTMWZ-_aKVj247@365eaeb1-b29f-4927-9847-a351b5853fc0.asia-southeast1.firestore.goog:443/db-mediplus?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
 
 server:
   port: 0
